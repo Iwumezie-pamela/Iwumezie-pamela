@@ -7,13 +7,14 @@
 - 📫 How to reach me **iwumeziep@gmail.com**
 
 **🛠 Tech Stack**
-HTML5
-CSS
-Bootstrap
-Tailwind
-JavaScript
-Git 
-GitHub
+- HTML5
+- CSS
+- Bootstrap
+- Tailwind
+- JavaScript
+- Reactjs(currently learning)
+- Git
+- GitHub
 <!---
 Iwumezie-pamela/Iwumezie-pamela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
