@@ -7,7 +7,7 @@
 - 📫 How to reach me **iwumeziep@gmail.com**
 
 **🛠 Tech Stack**
-- HTML5
+- ![alt text](image.jpg)HTML5
 - CSS
 - Bootstrap
 - Tailwind
