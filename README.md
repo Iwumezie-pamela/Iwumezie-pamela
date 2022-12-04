@@ -7,7 +7,7 @@
 - 📫 How to reach me **iwumeziep@gmail.com**
 
 **🛠 Tech Stack**
-- ![html](https://user-images.githubusercontent.com/106850538/205500482-b219eead-b2ab-4e8c-a386-15dd8ad7b3ff.jpg)
+- HTML5
 - CSS
 - Bootstrap
 - Tailwind
