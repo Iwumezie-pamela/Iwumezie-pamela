@@ -5,9 +5,8 @@
 - 🌱 I’m currently learning indepth JavaScript and reactjs funndamentals
 - 💞️  I’m looking to collaborate on open-source projects in frontend development.
 - 📫 How to reach me **iwumeziep@gmail.com**
-- 
-**Connect with me:**
-https://www.linkedin.com/in/iwumezie-pamela-b090ba225/
+
+**🛠 Tech Stack**
 
 <!---
 Iwumezie-pamela/Iwumezie-pamela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
