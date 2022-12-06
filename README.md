@@ -1,4 +1,4 @@
-#👋 Hi, I’m Iwumezie-pamela
+# 👋 Hi, I’m Iwumezie-pamela
  ![IMG_8417](https://user-images.githubusercontent.com/106850538/205906773-bea63f8f-6463-42f0-b856-f03cebfca39e.GIF)
 
 **⭐️About Me**
