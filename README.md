@@ -3,7 +3,7 @@
 
 **⭐️About Me**
 - 👀 I’m interested in building responsive website and i'm presently practicing with frontend mentor and youytube
-- 🌱 I’m currently learning indepth JavaScript and reactjs funndamentals
+- 🌱 I’m currently learning indepth JavaScript and reactjs fundamentals
 - 💞️  I’m looking to collaborate on open-source projects in frontend development.
 - 📫 How to reach me **iwumeziep@gmail.com**
 
@@ -11,6 +11,8 @@
 - HTML5
 - CSS
 - Bootstrap
+- ![IMG_8419](https://user-images.githubusercontent.com/106850538/205908853-d0641f51-1137-4182-81c8-5ba822deaf23.jpg)
+
 - Tailwind
 - JavaScript
 - Reactjs(currently learning)
