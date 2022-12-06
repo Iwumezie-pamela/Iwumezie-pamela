@@ -14,9 +14,7 @@
 ![IMG_8424](https://user-images.githubusercontent.com/106850538/205909065-350faf4b-39dd-4923-8876-7a49427dccf7.jpg)
 ![IMG_8423](https://user-images.githubusercontent.com/106850538/205909126-8a679682-fa52-4b3e-ab69-eb547e30f7bf.jpg)
 ![IMG_8421](https://user-images.githubusercontent.com/106850538/205909182-8aa1effd-078b-4610-81e5-ef07f8bbb4f1.jpg)
-![IMG_8444](https://user-images.githubusercontent.com/106850538/205910815-1d260d17-32fe-4ecb-93ca-7e60a3795ca6.jpg)
 ![IMG_8425](https://user-images.githubusercontent.com/106850538/205911001-c79ab649-023e-44d9-828d-225a67defb99.jpg)
-![IMG_8444 2](https://user-images.githubusercontent.com/106850538/205911032-86790f57-9f7c-4ff0-a55d-57a6597aa06f.jpg)
 
 <!---
 Iwumezie-pamela/Iwumezie-pamela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
