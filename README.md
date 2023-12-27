@@ -26,9 +26,7 @@ Let's code, create, and innovate together! 🚀
 ![IMG_8423](https://user-images.githubusercontent.com/106850538/205909126-8a679682-fa52-4b3e-ab69-eb547e30f7bf.jpg)
 ![IMG_8421](https://user-images.githubusercontent.com/106850538/205909182-8aa1effd-078b-4610-81e5-ef07f8bbb4f1.jpg)
 ![IMG_8425](https://user-images.githubusercontent.com/106850538/205911001-c79ab649-023e-44d9-828d-225a67defb99.jpg)
-![nnext](https://github.com/Iwumezie-pamela/Iwumezie-pamela/assets/106850538/8bf26287-bcab-460d-9fa7-1ce6f57f872d)
-![type](https://github.com/Iwumezie-pamela/Iwumezie-pamela/assets/106850538/52737216-d37d-4c0b-8df4-968ee94c2772)
-![download](https://github.com/Iwumezie-pamela/Iwumezie-pamela/assets/106850538/fea401d5-cd48-450d-a83f-baa8cef77668)
+![next](https://github.com/Iwumezie-pamela/Iwumezie-pamela/assets/106850538/19424980-732c-47e7-a423-6391dc9e757b)
 
 <!---
 Iwumezie-pamela/Iwumezie-pamela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
